@@ -1,0 +1,5 @@
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.ORM\bin\Debug\KullaniciGiris.ORM.dll
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.ORM\bin\Debug\KullaniciGiris.ORM.pdb
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.ORM\obj\Debug\KullaniciGiris.ORM.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.ORM\obj\Debug\KullaniciGiris.ORM.dll
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.ORM\obj\Debug\KullaniciGiris.ORM.pdb

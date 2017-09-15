@@ -1,0 +1,12 @@
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\bin\Debug\KullaniciGiris.FORMS.exe.config
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\bin\Debug\KullaniciGiris.FORMS.exe
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\bin\Debug\KullaniciGiris.FORMS.pdb
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\bin\Debug\KullaniciGiris.ORM.dll
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\bin\Debug\KullaniciGiris.ORM.pdb
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.Form1.resources
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.exe
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.pdb
+c:\users\mustafa\documents\visual studio 2017\Projects\KullaniciGiris\KullaniciGiris.FORMS\obj\Debug\KullaniciGiris.FORMS.KullaniciGoruntule.resources
